@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21d71683.css",
+    "main.js": "/static/js/main.58ae3d7b.js",
+    "static/media/Pleskac_Group.jpg": "/static/media/Pleskac_Group.0195a72cf819ced21642.jpg",
+    "static/media/Lab_Working.jpg": "/static/media/Lab_Working.40951eea5c4d347404fd.jpg",
+    "static/media/Outside_Space.jpg": "/static/media/Outside_Space.2f90b12e05ca661080ef.jpg",
+    "static/media/Xiaohong_office.jpg": "/static/media/Xiaohong_office.9e9d3cbfe76b6f33c5b8.jpg",
+    "static/media/JAdamChess3.jpg": "/static/media/JAdamChess3.bb0826c3f76c2310f49a.jpg",
+    "static/media/James_Office.jpg": "/static/media/James_Office.fc3cf9fbafd821795e68.jpg",
+    "static/media/ChenYiyang.jpg": "/static/media/ChenYiyang.46ada6797f00b0f8277e.jpg",
+    "static/media/Apramay_Headshot.PNG": "/static/media/Apramay_Headshot.b109fd57b335d7344bb0.PNG",
+    "static/media/CaiXiaohong.jpg": "/static/media/CaiXiaohong.10cf67f53025762e94e8.jpg",
+    "static/media/Dean_Habeeb.jpg": "/static/media/Dean_Habeeb.db05a22d1d66483229bf.jpg",
+    "static/media/James_Adaryukov.jpg": "/static/media/James_Adaryukov.720f25c7df6d9f9b4ff1.jpg",
+    "static/media/Labteam.jpg": "/static/media/Labteam.6bf4b17ca5771cc829ca.jpg",
+    "static/media/Lab_Space.jpg": "/static/media/Lab_Space.abd49e1b3cfd3b0b7aca.jpg",
+    "static/media/Lab_Space1.jpg": "/static/media/Lab_Space1.00b6ffca0a62f668552d.jpg",
+    "static/media/Facilities_2.jpg": "/static/media/Facilities_2.26edd7e4f6def669c86f.jpg",
+    "static/media/Facilities.jpg": "/static/media/Facilities.6540ccf406350c7b7fb1.jpg",
+    "static/media/HuangJiaqi.jpg": "/static/media/HuangJiaqi.85ce4dc84f122cfe10ca.jpg",
+    "static/media/Jun-Fang.jpg": "/static/media/Jun-Fang.e25ad7af07284aebaa36.jpg",
+    "static/media/Tim-Pleskac.jpg": "/static/media/Tim-Pleskac.bef2e63695eb0a368b95.jpg",
+    "static/media/Naveen.jpg": "/static/media/Naveen.e461bd0b021d1c65f322.jpg",
+    "static/media/NoImage.jpg": "/static/media/NoImage.93a71ee63986e894beb9.jpg",
+    "static/media/penrose.svg": "/static/media/penrose.b9a326541c8eb02f1eab203dca80a84b.svg",
+    "index.html": "/index.html",
+    "main.21d71683.css.map": "/static/css/main.21d71683.css.map",
+    "main.58ae3d7b.js.map": "/static/js/main.58ae3d7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d71683.css",
+    "static/js/main.58ae3d7b.js"
+  ]
+}
