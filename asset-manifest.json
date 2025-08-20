@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.912326ad.css",
-    "main.js": "/static/js/main.6142b325.js",
+    "main.js": "/static/js/main.5fb34edd.js",
     "static/media/Pleskac_Group.jpg": "/static/media/Pleskac_Group.0195a72cf819ced21642.jpg",
     "static/media/Lab_Working.jpg": "/static/media/Lab_Working.40951eea5c4d347404fd.jpg",
     "static/media/Outside_Space.jpg": "/static/media/Outside_Space.2f90b12e05ca661080ef.jpg",
@@ -26,10 +26,10 @@
     "static/media/penrose.svg": "/static/media/penrose.b9a326541c8eb02f1eab203dca80a84b.svg",
     "index.html": "/index.html",
     "main.912326ad.css.map": "/static/css/main.912326ad.css.map",
-    "main.6142b325.js.map": "/static/js/main.6142b325.js.map"
+    "main.5fb34edd.js.map": "/static/js/main.5fb34edd.js.map"
   },
   "entrypoints": [
     "static/css/main.912326ad.css",
-    "static/js/main.6142b325.js"
+    "static/js/main.5fb34edd.js"
   ]
 }
