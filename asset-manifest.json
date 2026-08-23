@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.912326ad.css",
-    "main.js": "/static/js/main.46f14786.js",
-    "static/media/Pleskac_Group.jpg": "/static/media/Pleskac_Group.0195a72cf819ced21642.jpg",
-    "static/media/Lab_Working.jpg": "/static/media/Lab_Working.40951eea5c4d347404fd.jpg",
-    "static/media/Outside_Space.jpg": "/static/media/Outside_Space.2f90b12e05ca661080ef.jpg",
-    "static/media/Xiaohong_office.jpg": "/static/media/Xiaohong_office.9e9d3cbfe76b6f33c5b8.jpg",
-    "static/media/JAdamChess3.jpg": "/static/media/JAdamChess3.bb0826c3f76c2310f49a.jpg",
-    "static/media/James_Office.jpg": "/static/media/James_Office.fc3cf9fbafd821795e68.jpg",
-    "static/media/James_Adaryukov.jpg": "/static/media/James_Adaryukov.720f25c7df6d9f9b4ff1.jpg",
-    "static/media/Labteam.jpg": "/static/media/Labteam.6bf4b17ca5771cc829ca.jpg",
-    "static/media/Lab_Space.jpg": "/static/media/Lab_Space.abd49e1b3cfd3b0b7aca.jpg",
-    "static/media/Lab_Space1.jpg": "/static/media/Lab_Space1.00b6ffca0a62f668552d.jpg",
-    "static/media/Facilities_2.jpg": "/static/media/Facilities_2.26edd7e4f6def669c86f.jpg",
-    "static/media/Facilities.jpg": "/static/media/Facilities.6540ccf406350c7b7fb1.jpg",
-    "static/media/HuangJiaqi.jpg": "/static/media/HuangJiaqi.85ce4dc84f122cfe10ca.jpg",
-    "static/media/Tim-Pleskac.jpg": "/static/media/Tim-Pleskac.e834f89299da3a332988.jpg",
+    "main.css": "/static/css/main.61695986.css",
+    "main.js": "/static/js/main.39730cfb.js",
+    "static/media/Pleskac_Group.jpg": "/static/media/Pleskac_Group.575d602d36dd05c62b49.jpg",
+    "static/media/Outside_Space.jpg": "/static/media/Outside_Space.76e3b01b97f44ab74e75.jpg",
+    "static/media/Xiaohong_office.jpg": "/static/media/Xiaohong_office.97988916c1048413feed.jpg",
+    "static/media/Lab_Working.jpg": "/static/media/Lab_Working.c918df378115d4ecea34.jpg",
+    "static/media/Lab_Space.jpg": "/static/media/Lab_Space.5872dd9befedbfa595bb.jpg",
+    "static/media/Lab_Space1.jpg": "/static/media/Lab_Space1.c45c37a222510e61cdb8.jpg",
+    "static/media/JAdamChess3.jpg": "/static/media/JAdamChess3.12af608dca14d4311756.jpg",
+    "static/media/Facilities_2.jpg": "/static/media/Facilities_2.c342cedc17ff888a35f0.jpg",
+    "static/media/Facilities.jpg": "/static/media/Facilities.2031488f5bf117b274ac.jpg",
+    "static/media/James_Office.jpg": "/static/media/James_Office.26b509aa1013819148ca.jpg",
+    "static/media/Isha_Mody.jpg": "/static/media/Isha_Mody.c864df846bdc725c5a81.jpg",
+    "static/media/Tim-Pleskac.jpg": "/static/media/Tim-Pleskac.5f397c0416a112ef38c9.jpg",
+    "static/media/Greg_Koop.jpg": "/static/media/Greg_Koop.1efbd4d8da6caabe5eff.jpg",
+    "static/media/James_Adaryukov.jpg": "/static/media/James_Adaryukov.91da28df2d4b25b74b40.jpg",
     "static/media/NoImage.jpg": "/static/media/NoImage.93a71ee63986e894beb9.jpg",
     "static/media/penrose.svg": "/static/media/penrose.9fc4d9089888b816f0990630265f81ed.svg",
     "index.html": "/index.html",
-    "main.912326ad.css.map": "/static/css/main.912326ad.css.map",
-    "main.46f14786.js.map": "/static/js/main.46f14786.js.map"
+    "main.61695986.css.map": "/static/css/main.61695986.css.map",
+    "main.39730cfb.js.map": "/static/js/main.39730cfb.js.map"
   },
   "entrypoints": [
-    "static/css/main.912326ad.css",
-    "static/js/main.46f14786.js"
+    "static/css/main.61695986.css",
+    "static/js/main.39730cfb.js"
   ]
 }

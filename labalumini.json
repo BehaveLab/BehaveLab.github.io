@@ -1,5 +1,26 @@
 [
   {
+    "name": "Carly Lasagna",
+    "role": "Graduate Student",
+    "started": "2020",
+    "ended": "2026",
+    "link": "https://carlylasagna.com/"
+  },
+  {
+    "name": "Jiaqi Huang",
+    "role": "Graduate Student",
+    "started": "2024",
+    "ended": "2026",
+    "link": "https://sites.google.com/view/jiaqihuang"
+  },
+  {
+    "name": "Afia Zeeshan",
+    "role": "Undergraduate RA",
+    "started": "2025",
+    "ended": "2026",
+    "link": ""
+  },
+  {
     "name": "Xiaohong Cai",
     "role": "Graduate Student",
     "started": "2019",
