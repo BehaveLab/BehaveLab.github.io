@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56cfe501.css",
-    "main.js": "/static/js/main.1c0ae0d4.js",
+    "main.css": "/static/css/main.76eda751.css",
+    "main.js": "/static/js/main.2049494a.js",
     "static/media/Pleskac_Group.jpg": "/static/media/Pleskac_Group.575d602d36dd05c62b49.jpg",
     "static/media/Outside_Space.jpg": "/static/media/Outside_Space.76e3b01b97f44ab74e75.jpg",
     "static/media/Xiaohong_office.jpg": "/static/media/Xiaohong_office.97988916c1048413feed.jpg",
@@ -19,11 +19,11 @@
     "static/media/NoImage.jpg": "/static/media/NoImage.93a71ee63986e894beb9.jpg",
     "static/media/penrose.svg": "/static/media/penrose.9fc4d9089888b816f0990630265f81ed.svg",
     "index.html": "/index.html",
-    "main.56cfe501.css.map": "/static/css/main.56cfe501.css.map",
-    "main.1c0ae0d4.js.map": "/static/js/main.1c0ae0d4.js.map"
+    "main.76eda751.css.map": "/static/css/main.76eda751.css.map",
+    "main.2049494a.js.map": "/static/js/main.2049494a.js.map"
   },
   "entrypoints": [
-    "static/css/main.56cfe501.css",
-    "static/js/main.1c0ae0d4.js"
+    "static/css/main.76eda751.css",
+    "static/js/main.2049494a.js"
   ]
 }
