@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b4bbd59.css",
-    "main.js": "/static/js/main.318af453.js",
+    "main.css": "/static/css/main.9acb9bc3.css",
+    "main.js": "/static/js/main.58caff59.js",
     "static/media/Pleskac_Group.jpg": "/static/media/Pleskac_Group.575d602d36dd05c62b49.jpg",
+    "static/media/Pleskac_Group_Fall2026.jpg": "/static/media/Pleskac_Group_Fall2026.c4ec0bed7f326493acb0.jpg",
     "static/media/Outside_Space.jpg": "/static/media/Outside_Space.76e3b01b97f44ab74e75.jpg",
     "static/media/Xiaohong_office.jpg": "/static/media/Xiaohong_office.97988916c1048413feed.jpg",
     "static/media/Lab_Working.jpg": "/static/media/Lab_Working.c918df378115d4ecea34.jpg",
@@ -13,17 +14,22 @@
     "static/media/Facilities.jpg": "/static/media/Facilities.2031488f5bf117b274ac.jpg",
     "static/media/James_Office.jpg": "/static/media/James_Office.26b509aa1013819148ca.jpg",
     "static/media/Isha_Mody.jpg": "/static/media/Isha_Mody.c864df846bdc725c5a81.jpg",
+    "static/media/James_Adaryukov.jpg": "/static/media/James_Adaryukov.4b3226741814eafb6730.jpg",
     "static/media/Tim-Pleskac.jpg": "/static/media/Tim-Pleskac.5f397c0416a112ef38c9.jpg",
+    "static/media/Sophie_Su.jpg": "/static/media/Sophie_Su.2dfd2fbd45ed8459e7fe.jpg",
+    "static/media/Yiyan_Tan.jpg": "/static/media/Yiyan_Tan.eb3e1ebd33bd8eec0897.jpg",
     "static/media/Greg_Koop.jpg": "/static/media/Greg_Koop.1efbd4d8da6caabe5eff.jpg",
-    "static/media/James_Adaryukov.jpg": "/static/media/James_Adaryukov.91da28df2d4b25b74b40.jpg",
+    "static/media/Lily_Jiang_He.jpg": "/static/media/Lily_Jiang_He.e2a02b1d4cb13ca0cf18.jpg",
+    "static/media/Harika_Reddy_Kolan.jpg": "/static/media/Harika_Reddy_Kolan.bc0c6a04910b8d6cd554.jpg",
+    "static/media/Constantine_Stefanidis.jpg": "/static/media/Constantine_Stefanidis.4321163bbed701246f44.jpg",
     "static/media/NoImage.jpg": "/static/media/NoImage.93a71ee63986e894beb9.jpg",
     "static/media/penrose.svg": "/static/media/penrose.9fc4d9089888b816f0990630265f81ed.svg",
     "index.html": "/index.html",
-    "main.9b4bbd59.css.map": "/static/css/main.9b4bbd59.css.map",
-    "main.318af453.js.map": "/static/js/main.318af453.js.map"
+    "main.9acb9bc3.css.map": "/static/css/main.9acb9bc3.css.map",
+    "main.58caff59.js.map": "/static/js/main.58caff59.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b4bbd59.css",
-    "static/js/main.318af453.js"
+    "static/css/main.9acb9bc3.css",
+    "static/js/main.58caff59.js"
   ]
 }
